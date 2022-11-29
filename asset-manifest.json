@@ -4,8 +4,8 @@
     "static/js/0.4036514f.chunk.js.map": "./static/js/0.4036514f.chunk.js.map",
     "static/js/1.fa421d2e.chunk.js": "./static/js/1.fa421d2e.chunk.js",
     "static/js/1.fa421d2e.chunk.js.map": "./static/js/1.fa421d2e.chunk.js.map",
-    "main.js": "./static/js/main.12a92895.chunk.js",
-    "main.js.map": "./static/js/main.12a92895.chunk.js.map",
+    "main.js": "./static/js/main.42a39c35.chunk.js",
+    "main.js.map": "./static/js/main.42a39c35.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.d2872833.js",
     "runtime-main.js.map": "./static/js/runtime-main.d2872833.js.map",
     "static/css/4.176a470b.chunk.css": "./static/css/4.176a470b.chunk.css",
@@ -37,7 +37,7 @@
     "static/media/diffusion-banner.ebe54a4a.png": "./static/media/diffusion-banner.ebe54a4a.png",
     "static/media/dropdown.fef18eeb.svg": "./static/media/dropdown.fef18eeb.svg",
     "static/media/exzoswap-logo.a2b00f07.png": "./static/media/exzoswap-logo.a2b00f07.png",
-    "static/media/logo.974560ef.svg": "./static/media/logo.974560ef.svg",
+    "static/media/logo.69cd2734.svg": "./static/media/logo.69cd2734.svg",
     "static/media/menu.79681e1f.svg": "./static/media/menu.79681e1f.svg",
     "static/media/metamask.02e3ec27.png": "./static/media/metamask.02e3ec27.png",
     "static/media/noise.0473ebbb.png": "./static/media/noise.0473ebbb.png",
@@ -55,6 +55,6 @@
     "static/js/runtime-main.d2872833.js",
     "static/css/4.176a470b.chunk.css",
     "static/js/4.f2d6fcb1.chunk.js",
-    "static/js/main.12a92895.chunk.js"
+    "static/js/main.42a39c35.chunk.js"
   ]
 }
